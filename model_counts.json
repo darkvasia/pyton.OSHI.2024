@@ -1,0 +1,42 @@
+[
+    {
+        "model": "Shahed-136/131",
+        "launched": 6665
+    },
+    {
+        "model": "X-101/X-555",
+        "launched": 1323
+    },
+    {
+        "model": "X-101/X-555 and Kalibr",
+        "launched": 340
+    },
+    {
+        "model": "Kalibr",
+        "launched": 335
+    },
+    {
+        "model": "C-300",
+        "launched": 271
+    },
+    {
+        "model": "X-59",
+        "launched": 237
+    },
+    {
+        "model": "Iskander-M",
+        "launched": 171
+    },
+    {
+        "model": "Orlan-10",
+        "launched": 170
+    },
+    {
+        "model": "ZALA",
+        "launched": 163
+    },
+    {
+        "model": "Lancet",
+        "launched": 159
+    }
+]
